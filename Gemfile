@@ -4,6 +4,7 @@ gem 'rails', '3.0.1'
 gem 'rake', '0.8.7'
 gem 'heroku'
 gem 'delayed_job'
+gem 'bundler'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
